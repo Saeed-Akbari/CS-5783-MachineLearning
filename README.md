@@ -1,1 +1,1 @@
-# CS-5783-MachineLearning
+# CS5783-MachineLearning
