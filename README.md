@@ -2,9 +2,7 @@
 
 Assignments of Machine Learning course are collected in this repository.
 
-**PLEASE BE CAREFUL**
-
-Change the data path in the codes to where the data is stored.
+**PLEASE BE CAREFUL**     Change the data path in the codes to where the data is stored.
 
 # Assignment 3
 
